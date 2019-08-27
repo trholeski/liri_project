@@ -7,9 +7,10 @@ For instance, "node liri song danger zone".  The user will need to type the ente
 Notice that after typing "node liri song" in the command line the movie, band, or song name can be moultiple words and does not require quotes.
 ![FirstImage](/assets/images/images_for_readme/liri_img2.png)
 This data will indeed be quite handy for anyone looking to learn more about the song his or her friend just mentioned that the user NEEDS to listen to!  It will ALSO be quite helpful for anyone looking for his or her favorite artists next show!
-![FirstImage](/assets/images/images_for_readme/liri_img4.png)
+![FirstImage](/assets/images/images_for_readme/liri_img5.png)
 As if those two use cases weren't enough, this application will ALSO be inredible valuable for the user that needs a very thorough breakdown of the data associated with the latest block buster film!
 es.
-![FirstImage](/assets/images/images_for_readme/liri_img5.png)
+![FirstImage](/assets/images/images_for_readme/liri_img4.png)
+
 Being of such unmatched value, it is clear thta this application will soon be the most used application in the world!
 
